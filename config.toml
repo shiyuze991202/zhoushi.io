@@ -1,0 +1,8 @@
+baseURL = 'http://https://shiyuze991202.github.io/zhoushi.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "line"
+
+ignoreErrors = ["error-missing-instagram-accesstoken"]
+
+
